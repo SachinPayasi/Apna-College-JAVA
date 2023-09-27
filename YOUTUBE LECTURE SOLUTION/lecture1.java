@@ -139,9 +139,4 @@ System.out.println("negative "+negative);
 System.out.println("zeros"+zero);
 }
 
-
- 
-
-
 }     
-
